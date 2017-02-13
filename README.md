@@ -52,9 +52,10 @@ Output: Player Wins!
 
 #### 2. Rarely, win state is not reached when user reaches 7 books.
 
+
 ## Setup/Installation Requirements
 
-* _Works in any web browser [click here] (https://jonathanwthom.github.io/go-fish) to view on gh-pages._
+* _Works in any web browser [click here] (https://jonathanwthom.github.io/Go-Fish/) to view on gh-pages._
 
 ## Support and contact details
 
