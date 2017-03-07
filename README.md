@@ -4,6 +4,10 @@
 
 #### By _**Jonathan Thom, Michelle Llaguno, and Tracie Weitzman**_
 
+## Setup/Installation Requirements
+
+* _Works in any web browser [click here] (https://jonathanwthom.github.io/Go-Fish/) to view on gh-pages._
+
 ## Specifications
 
 #### 1. Create a shuffled deck.
@@ -51,10 +55,6 @@ Output: Player Wins!
 #### 1. In some instances, when a book is created, not all cards are removed from the hand.
 
 #### 2. Rarely, win state is not reached when user reaches 7 books.
-
-## Setup/Installation Requirements
-
-* _Works in any web browser [click here] (https://jonathanwthom.github.io/Go-Fish/) to view on gh-pages._
 
 ## Support and contact details
 
